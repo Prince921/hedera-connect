@@ -1,1 +1,1 @@
-# hedera-connect
+# Hedera Connect
